@@ -1,18 +1,104 @@
-# 💫 About Me:
-Hi 👋 I’m Lakshay Vig — a passionate developer exploring the intersection of AI, Machine Learning, Data Science, and real-world problem solving. My work focuses on building practical, impact-driven applications that combine intelligent automation, sustainability, and modern web technologies.<br><br>I enjoy turning ideas into working products — from predictive ML models to full-stack AI applications — and constantly experiment with new tools, frameworks, and cloud platforms to level up my skills.<br><br>What I’m currently building 🚀<br><br>🤖 AI-powered applications and intelligent assistants<br><br>🌱 Sustainability + Green computing solutions<br><br>📊 Machine Learning & Data Science projects<br><br>🌐 Full-stack apps using FastAPI, dashboards & modern tooling<br><br>Featured Projects 💡<br><br>CleanCam AI — Smart cleanliness monitoring using AI for garbage detection, severity scoring, and dashboard tracking.<br><br>Carbon Footprint AI — Predicts carbon emissions and analyzes code for green computing efficiency.<br><br>Bangalore House Price Prediction — ML model for real-estate price prediction.<br><br>I’m always excited to collaborate, learn, and build impactful tech 🚀
+<h1 align="center">Hi 👋, I'm Lakshay Vig</h1>
+<h3 align="center">🚀 AI Developer | Machine Learning Enthusiast | Building Impact-Driven Tech</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshay-vig/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/papperocks0) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajmachawal-py&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajmachawal-py&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmachawal-py&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshay-vig/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Vig-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/papperocks0">
+    <img src="https://img.shields.io/badge/X-@papperocks0-black?style=for-the-badge&logo=x" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rajmachawal-py&style=for-the-badge&color=blue" alt="profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajmachawal-py&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+💡 Passionate about building intelligent systems that solve real-world problems  
+🤖 Focused on AI, Machine Learning & Data Science  
+🌱 Exploring Sustainability & Green Computing  
+⚡ Love turning ideas into full-stack AI applications  
+
+I build scalable, impact-driven solutions combining **AI + Automation + Modern Web Technologies**.
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 AI-powered Assistants & Automation Systems  
+- 🌍 Sustainability & Carbon Optimization Projects  
+- 📊 Advanced Machine Learning Models  
+- 🌐 FastAPI-based AI Web Applications  
+
+---
+
+## 💡 Featured Projects
+
+### 🧠 CleanCam AI
+AI-powered cleanliness monitoring system with garbage detection, severity scoring & dashboard tracking.
+
+### 🌱 Carbon Footprint AI
+Predicts carbon emissions and analyzes code efficiency to promote green computing.
+
+### 🏠 Bangalore House Price Prediction
+End-to-end ML pipeline for real-estate price prediction with feature engineering & evaluation.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,git" />
+</p>
+
+### 🧠 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-orange?style=flat&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/keras-red?style=flat&logo=keras" />
+</p>
+
+### 📊 Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://img.shields.io/badge/pandas-blue?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/scipy-blue?style=flat&logo=scipy" />
+  <img src="https://img.shields.io/badge/matplotlib-black?style=flat&logo=matplotlib" />
+</p>
+
+### 🌐 Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://img.shields.io/badge/NVIDIA-green?style=flat&logo=nvidia" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajmachawal-py&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmachawal-py&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmachawal-py&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Contribute to impactful AI projects  
+- 🧠 Master System Design for AI applications  
+- 🌍 Build scalable sustainability-focused products  
+- 📈 Publish high-quality open-source projects  
+
+---
+
+<h3 align="center">✨ Building Intelligent Systems That Create Real-World Impact ✨</h3>
