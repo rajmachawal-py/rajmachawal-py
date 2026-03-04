@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Lakshay Vig</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+Developer;Machine+Learning+Engineer;Building+Impact-Driven+AI+Systems;Sustainability+%2B+Green+Computing;FastAPI+%7C+Data+Science+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+Developer;Machine+Learning+Engineer;Building+Impact-Driven+AI+Systems;Sustainability+%2B+Green+Computing;FastAPI+%7C+Data+Science+%7C+Automation" />
 </p>
 
 <p align="center">
