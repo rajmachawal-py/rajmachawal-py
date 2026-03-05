@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajmachawal-py&style=flat-square&color=00BFFF"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rajmachawal-py?style=flat-square&color=00BFFF"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/rajmachawal-py?style=flat-square&color=00BFFF"/>
+  <a href="https://github.com/rajmachawal-py">
+    <img src="https://komarev.com/ghpvc/?username=rajmachawal-py&style=flat-square&label=PROFILE+VIEWS&color=00BFFF" height="30"/>
+  </a>
+  <a href="https://github.com/rajmachawal-py?tab=stars">
+    <img src="https://img.shields.io/github/stars/rajmachawal-py?style=flat-square&color=00BFFF&logo=github&logoColor=white" height="30"/>
+  </a>
 </p>
 
 ---
@@ -50,10 +51,16 @@
   a dashboard interface for tracking and managing cleanliness reports.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
+  <br>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28"/>
 </p>
 
 <br/>
@@ -65,10 +72,15 @@
   between code quality and climate responsibility.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Green_Computing-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Linear_Regression-00BFFF?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Joblib-3670A0?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Green_Computing-2E8B57?style=for-the-badge" height="28"/>
 </p>
 
 <br/>
@@ -80,10 +92,10 @@
   to model training, evaluation, and deployment using regression models.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Data_Science-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge" height="30"/>
 </p>
 
 ---
@@ -91,17 +103,26 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Automation-00BFFF?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" height="30"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=seaborn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" height="30"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="30"/>
 </p>
 
 ---
